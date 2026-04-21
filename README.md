@@ -10,4 +10,4 @@ clang tetris.s -o tetris && ./tetris
 - w: 回転
 - q: 終了
 
-## thanks by claude AI
+thanks by claude AI
