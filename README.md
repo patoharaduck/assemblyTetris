@@ -9,3 +9,5 @@ clang tetris.s -o tetris && ./tetris
 - d: 右移動
 - w: 回転
 - q: 終了
+
+## thanks by claude AI
